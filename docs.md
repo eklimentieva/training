@@ -6,4 +6,4 @@ Then commited.
 
 And at the end uploaded to GitHub.
 
-At the very end!!
+At the very end.
