@@ -6,6 +6,6 @@ Then commited.
 
 And at the end uploaded to GitHub.
 
-At the very end. This is it for now.
+At the very end. 
 
 Right now I'm in the middle of working on this file.
