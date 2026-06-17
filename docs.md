@@ -1,4 +1,4 @@
-This file is an example used for an exercise.
+This file is an example used for a pull request exercise.
 
 It will be added into Git!
 
